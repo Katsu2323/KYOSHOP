@@ -1,0 +1,176 @@
+.body
+{
+font-family: arial;
+}
+.logo
+{
+    width:200px;
+    height: 150px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    
+}
+.Topbox
+{
+height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header
+{
+height: 76px;
+background: yellow;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.flex
+{
+    display:flex;
+}
+.main
+{
+  
+box-sizing: border-box;
+padding-top: 20px;
+padding-left: 20px;
+margin-left: auto;
+    margin-right: auto;
+    background: white;
+}
+.text
+{
+ margin-top: 70px;
+ margin-left: 470px
+}
+.catalog
+{
+background: white;
+padding: 0px 5px;
+box-sizing: border-box;
+text-align: center;
+height: 400px;
+
+}
+.foot
+{
+
+    background: white;
+    margin-top: 10px;
+   
+}
+.button
+{
+    padding: 10px 74px;
+    background: white;
+    border: none;
+    color: #2157d3;
+    border-radius: 5px;
+}
+.button:hover
+{
+    background: lightblue;
+}
+.logob
+{
+    width: 100px;
+    height: 100px;
+}
+.name
+{
+padding: 0;
+margin: 0;
+margin-bottom: 10px;
+     font-size: 20px;
+}
+.content
+{
+ height: 400px;
+  width: 83%;
+ background: white;
+margin-left: 10px;
+
+    
+
+}
+.hr
+{
+height: 2px;
+background: lightblue;
+border: none;
+}
+.btn
+{
+    padding: 26px 18px;
+    background: yellow;
+    border: none;
+    color: #2157d3;
+    font-size: 20px;
+   
+}
+.btn:hover
+{
+background: lightblue;
+
+}
+.box
+{
+width: 250px;
+height: 300px;
+background: white;
+border: 2px solid lightblue;
+text-align: center;
+}
+.boximg
+{
+ width:80%;
+    height:70%;
+ 
+}
+.margin
+{
+    margin: 10px 7px
+}
+.background 
+{
+    background: lightblue;
+}
+.margin-left
+{
+    margin-left: auto;
+}
+.input
+{
+    padding: 5px 5px;
+    height: 20px;
+    margin: auto 0;
+    border: none;
+    border-radius: 10px;
+    outline: none
+}
+.padding
+{
+    padding-left: 30px;
+    box-sizing: border-box;
+    
+}
+.boxh2
+{
+margin-top: 1px;
+margin-bottom: auto;
+    
+}
+.buy
+{
+     padding: 5px 5px;
+    background: lightgray;
+    color: white;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+}
+.buy:hover
+{
+    background: red;
+}
