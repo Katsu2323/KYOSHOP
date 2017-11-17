@@ -198,3 +198,14 @@ margin-bottom: auto;
 {
     background: lightblue;
 }
+.txt
+{
+font-family: arial;
+font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.contacts
+{
+    margin-left: 20px;
+}
